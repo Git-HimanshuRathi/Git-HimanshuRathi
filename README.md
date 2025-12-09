@@ -4,9 +4,8 @@
 </div>
 
 ## 🔗 About Me
-I’m Himanshu — builder, open-source contributor, and tech explorer. I love shipping polished products, learning new technologies, and collaborating with others.
-
-
+ Heyyy ! I’m a developer who loves solving problems, breaking things (then fixing them), and learning new tech along the way. My GitHub is basically a playground of side projects, experiments, and random ideas I refuse to abandon.
+ 
 ## 🛠️ Tech Stack
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
