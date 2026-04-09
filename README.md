@@ -1,10 +1,10 @@
-### About 
+### About me
 Hi, I’m **Himanshu**. I don’t break production (Production simply **fails to survive my creativity**).
  
 ### Developer Lore ( Rules I Try to Follow ) 
 - If it works, **don’t touch it**
 
-### Commits include ( Honest version ):
+### Commits include ( Honest version )
   - `fix`
   - `fix again`
   - `this should work`
