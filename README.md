@@ -1,14 +1,8 @@
-### About me
-Hi, I’m **Himanshu**. I don’t break production (Production simply **fails to survive my creativity**).
+### About Me
+I write production ready code.
  
-### Developer Lore ( Rules I Try to Follow ) 
-- If it works, **don’t touch it**
-
-### Commits include ( Honest version )
-  - `fix`
-  - `fix again`
-  - `this should work`
-  - `ok but why does it work`
+### Commits include 
+`fix` , `fix again` , `this should work` , `ok but why does it work`
 
 ### Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Himanshu-Rathii)
